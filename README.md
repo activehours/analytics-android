@@ -3,6 +3,7 @@ analytics-android
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.segment.analytics.android/analytics/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.segment.analytics.android/analytics)
 [![Javadocs](http://javadoc-badge.appspot.com/com.segment.analytics.android/analytics.svg?label=javadoc)](http://javadoc-badge.appspot.com/com.segment.analytics.android/analytics)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Factivehours%2Fanalytics-android.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Factivehours%2Fanalytics-android?ref=badge_shield)
 
 analytics-android is an Android client for [Segment](https://segment.com)
 
@@ -93,3 +94,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Factivehours%2Fanalytics-android.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Factivehours%2Fanalytics-android?ref=badge_large)
